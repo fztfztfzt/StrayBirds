@@ -120,8 +120,8 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 那时年少的博客
+description: 一切皆有可能 JUST DO IT
 theme: slate
 disqusname: fztfztfzt
 
